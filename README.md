@@ -2,7 +2,7 @@
 
 **Full-Stack & AI Engineer** — I build production systems that real businesses depend on, not weekend demos.
 
-Currently a Software Engineering undergrad in Karachi 🇵🇰, shipping work for clients across Europe and Pakistan. My focus: **AI agents, RAG applications, and full-stack SaaS** — built end-to-end, deployed, and maintained in production.
+Currently a Software Engineering undergrad in Karachi 🇵🇰, shipping work for clients across Europe and Pakistan. My focus: **AI systems (agents, RAG, real-time voice pipelines) and full-stack SaaS** — built end-to-end, deployed, and maintained in production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-760872305/)
 [![Org](https://img.shields.io/badge/Founder-Methods--Lab-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Methods-Lab)
@@ -11,10 +11,15 @@ Currently a Software Engineering undergrad in Karachi 🇵🇰, shipping work fo
 
 ## 🚀 What I'm Building Right Now
 
+**🎙️ AYTME** — *Real-time AI voice translation platform · live at [aytme.io](https://www.aytme.io)*
+An enterprise-grade conferencing platform that translates and transcribes speech across languages in real time. Audio flows through a low-latency AI cascade — **VAD → Whisper (STT) → GPT-4o (translation) → TTS** — over a LiveKit WebRTC engine. Supports multi-user conferences, single-device physical sessions, and one-to-many broadcasts, with multi-tenant orgs, RBAC, and metered PayPal billing.
+`FastAPI (async)` · `LiveKit` · `OpenAI Whisper · GPT-4o · TTS` · `PostgreSQL` · `Redis Streams` · `React 18` · `React Native` · `DigitalOcean`
+🔗 **Live:** [www.aytme.io](https://www.aytme.io) &nbsp;·&nbsp; [Code](https://github.com/ahmedkhan753/Aytme-Voice-AI)
+
 **🚗 Auto-Inspection PWA** — *Live in production, used by 200+ vehicle inspectors in Poland* 🇵🇱
 A field-to-report platform for a Polish vehicle-appraisal company. Inspectors capture full inspections on an offline-capable PWA; the backend syncs to **Bitrix24 CRM**, parses **Eurotax** cost estimates, runs a deterministic cost engine, and generates downloadable PDF reports.
 `Next.js 14` · `FastAPI` · `SQLAlchemy` · `Bitrix24 API` · `Docker` · `Nginx`
-→ [pwa-project](https://github.com/ahmedkhan753/pwa-project)
+🔗 **Live:** [app.zaufajrzeczoznawcy.pl](https://app.zaufajrzeczoznawcy.pl/) &nbsp;·&nbsp; [Code](https://github.com/ahmedkhan753/pwa-project)
 
 **🧠 Methods-Lab** — *Founder*
 Building AI agents and data-intelligence tools with my team — Excel-based AI data extraction, automated data-analyst agents, and applied ML systems.
