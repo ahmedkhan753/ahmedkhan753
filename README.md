@@ -57,8 +57,3 @@ I'm open to freelance and contract work in **AI engineering, RAG/agent systems, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-760872305/)
 
 ---
-
-<sub>📊 GitHub Stats</sub>
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedkhan753&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhan753&layout=compact&hide_border=true)
